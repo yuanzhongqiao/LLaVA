@@ -168,23 +168,7 @@ pip install -e <span class="pl-c1">.</span>
     end
 " dir="auto"><!----><!----><div class="position-absolute top-0 pr-2 right-0 d-flex flex-justify-end flex-items-center">
     
-    <details class="details-reset details-overlay details-overlay-dark" style="display: contents">
-      <summary role="button" aria-label="打开对话框" class="btn my-2 mr-2 p-0 d-inline-flex" aria-haspopup="dialog">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" class="octicon m-2">
-          <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z"></path>
-        </svg>
-      </summary>
-      <details-dialog class="Box Box--overlay render-full-screen d-flex flex-column anim-fade-in fast" aria-label="mermaid rendered container" role="dialog" aria-modal="true">
-        <div>
-          <button aria-label="Close dialog" data-close-dialog="" type="button" data-view-component="true" class="Link--muted btn-link position-absolute render-full-screen-close">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="display:inline-block;vertical-align:text-bottom" class="octicon octicon-x">
-              <path fill-rule="evenodd" d="M5.72 5.72a.75.75 0 011.06 0L12 10.94l5.22-5.22a.75.75 0 111.06 1.06L13.06 12l5.22 5.22a.75.75 0 11-1.06 1.06L12 13.06l-5.22 5.22a.75.75 0 01-1.06-1.06L10.94 12 5.72 6.78a.75.75 0 010-1.06z"></path>
-            </svg>
-          </button>
-          <div class="Box-body border-0" role="presentation"></div>
-        </div>
-      </details-dialog>
-    </details>
+     
   <!----> 
   </div><!---->
     <div class="render-container color-bg-transparent js-render-target p-0 is-render-automatic is-render-requested is-render-ready" data-identity="28e855c8-9ee8-424f-b6ec-973764bea271" data-host="https://viewscreen.githubusercontent.com" data-type="mermaid" style="height: 396.225px;">
